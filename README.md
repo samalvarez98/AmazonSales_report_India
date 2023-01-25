@@ -11,3 +11,8 @@ To find valuable insights into Indians' shopping behaviors, especially in the no
 Deliverable
 ---
 A Tableau dashboard that provides a series of graphs, tables, and maps with key insights that tell a narrative of a broad panorama of Amazon shoppers in India. 
+
+Results
+---
+The results showed that states such as Delhi and Rajasthan had the highest number of orders from the data analyzed. Additionally, Delhi was the region where more clothing items were shipped, having a higher total of items shipped than the total of the other northern states combined.
+Amazon can expect to continue having a high demand in regions such as Dehli, Rajasthan, and Punjab. However, its sales might be below the highest point reached in April 2022. Another important finding was that in item categories, the "set" was the number 1 item order, indicating its high popularity among customers.
