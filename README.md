@@ -21,5 +21,5 @@ Dashboard
 ---
 ![Northern India ](https://user-images.githubusercontent.com/102596118/215298520-cee515d9-b84f-4499-abd4-4856973faf8c.png)
 
-To see dinamic dashboard go to the follwoing link:
+To see the dinamic dashboard go to the follwoing link:
 https://public.tableau.com/views/AmazonSalesReport-IndiaNorthernStates/NorthernIndia?:language=en-US&:display_count=n&:origin=viz_share_link
