@@ -2,7 +2,7 @@
 ---
 Project Purpose
 ---
-The following project consisted of cleaning the Amazon Sales Report dataset in Microsft SQL Server and consequently, with the data clean, analyzing the data to find valuable insights into the history of a number of Amazon orders of clothing items in India. Additionally, this project aims to demonstrate and show the new skills learned and to apply those skills in the data analysis process.
+The following project consisted of cleaning the Amazon Sales Report dataset in Microsft SQL Server and consequently, with the data clean, analyzing the data in Tableau to find valuable insights into the history of a number of Amazon orders of clothing items in India. Additionally, this project aims to demonstrate and show the new skills learned and to apply those skills in the data analysis process.
 
 Goal
 ---
