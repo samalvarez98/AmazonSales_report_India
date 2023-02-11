@@ -17,9 +17,16 @@ Results
 The results showed that states such as Delhi and Rajasthan had the highest number of orders from the data analyzed. Additionally, Delhi was the region where more clothing items were shipped, having a higher total of items shipped than the total of the other northern states combined.
 Amazon can expect to continue having a high demand in regions such as Dehli, Rajasthan, and Punjab. However, its sales might be below the highest point reached in April 2022. Another important finding was that in item categories, the "set" was the number 1 item order, indicating its high popularity among customers.
 
-Dashboard
+Dashboard #1 (Nortthern States)
 ---
 ![Northern India ](https://user-images.githubusercontent.com/102596118/215298520-cee515d9-b84f-4499-abd4-4856973faf8c.png)
 
 To see the dinamic dashboard go to the follwoing link:
 https://public.tableau.com/views/AmazonSalesReport-IndiaNorthernStates/NorthernIndia?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Dashboard #2 (Regions)
+---
+![Regions Dashboard (2)](https://user-images.githubusercontent.com/102596118/218281884-df3d2b1d-9ab0-4eec-81ba-9e2a48c3728e.png)
+
+To see the dinamic dashboard go to the follwoing link: https://public.tableau.com/shared/N5Y2S4ZHS?:display_count=n&:origin=viz_share_link
+
