@@ -12,11 +12,6 @@ Deliverable
 ---
 A Tableau dashboard that provides a series of graphs, tables, and maps with key insights that tell a narrative of a broad panorama of Amazon customers in India. 
 
-Results
----
-The results showed that states such as Delhi and Rajasthan had the highest number of orders from the data analyzed. Additionally, Delhi was the region where more clothing items were shipped, having a higher total of items shipped than the total of the other northern states combined.
-Amazon can expect to continue having a high demand in regions such as Dehli, Rajasthan, and Punjab. However, its sales might be below the highest point reached in April 2022. Another important finding was that in item categories, the "set" was the number 1 item order, indicating its high popularity among customers.
-
 Dashboard #1 (Nortthern States)
 ---
 ![Northern India ](https://user-images.githubusercontent.com/102596118/215298520-cee515d9-b84f-4499-abd4-4856973faf8c.png)
@@ -29,4 +24,13 @@ Dashboard #2 (Regions)
 ![Regions Dashboard (2)](https://user-images.githubusercontent.com/102596118/218281884-df3d2b1d-9ab0-4eec-81ba-9e2a48c3728e.png)
 
 To see the dinamic dashboard go to the follwoing link: https://public.tableau.com/shared/N5Y2S4ZHS?:display_count=n&:origin=viz_share_link
+
+Results
+---
+For the northern states, the results showed that states such as Delhi and Rajasthan had the highest number of orders from the data analyzed. Additionally, Delhi was the state in the north where more clothing items were shipped, having a higher total of items shipped than the total of the other northern states combined.
+Amazon can expect to continue having a high demand in regions such as Dehli, Rajasthan, and Punjab. However, its sales might be below the highest point reached in April 2022. Another important finding was that in item categories, the "set" was the number 1 item order, indicating its high popularity among customers.
+
+When all regions were considered, the southerns states dominated the market with more 45,000 orders shipped, while the North and the East shipped aproximtely 25,000 orders each one. Eastern states barely reached 13,000 orders shipped. Of course, higher earnings were obtained in the south with around $121,000 during the 3 month period. A mazon could expect a similar trend in the upcoming months.
+
+
 
