@@ -23,7 +23,7 @@ Dashboard #2 (Regions)
 ---
 ![Regions Dashboard (2)](https://user-images.githubusercontent.com/102596118/218281884-df3d2b1d-9ab0-4eec-81ba-9e2a48c3728e.png)
 
-To see the dinamic dashboard go to the follwoing link: https://public.tableau.com/shared/N5Y2S4ZHS?:display_count=n&:origin=viz_share_link
+To see the dinamic dashboard go to the follwoing link: https://public.tableau.com/views/Regions_India_Aamazon_Sales/RegionsDashboard?:language=en-US&:
 
 Results
 ---
